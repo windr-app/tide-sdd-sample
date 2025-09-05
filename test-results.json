@@ -1,0 +1,4 @@
+Error: Project(s) "chromium" not found. Available projects: ""
+    at filterProjects (/Users/tgrall/.npm/_npx/e41f203b7505f1fb/node_modules/playwright/lib/runner/projectUtils.js:79:11)
+    at runTests (/Users/tgrall/.npm/_npx/e41f203b7505f1fb/node_modules/playwright/lib/program.js:154:42)
+    at async i.<anonymous> (/Users/tgrall/.npm/_npx/e41f203b7505f1fb/node_modules/playwright/lib/program.js:64:7)
