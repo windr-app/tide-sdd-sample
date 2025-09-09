@@ -6,10 +6,11 @@ Auto-generated from all feature plans. Last updated: 2025-09-05
 - TypeScript with Next.js 15 + ShadCN UI (001-tide-app-init)
 
 ## Project Structure
-```
-src/
-tests/
-```
+
+The NextJS application is located in the `./app` folder.
+
+Then make sure that all the node/next related operations are done in the `./app` folder. (npm install, npm run dev, etc.)
+
 
 ## Commands
 # Add commands for 
